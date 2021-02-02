@@ -6,7 +6,7 @@
 # Development Environment
 
 * OS : Windows10 Home(64bit)
-* CPU ：Intel Corei5-4460
+* CPU : Intel Corei5-4460
 * GPU : NVIDIA GeForce GTX960
 
 # Link
