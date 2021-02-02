@@ -1,16 +1,14 @@
-### Hi there 👋
+# My Profile
 
-<!--
-**takanyanta/takanyanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Worked at a major steel manufacturing industry as a production engineer(2013/4-2020/7).
+* Now work at a medium sized consulting company as a datascientist(2020/8-).
 
-Here are some ideas to get you started:
+# Development Environment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* OS : Windows10 Home(64bit)
+* CPU ：Intel Corei5-4460
+* GPU : NVIDIA GeForce GTX960
+
+# Link
+* [LinkedIn](https://www.linkedin.com/in/takayuki-watanabe-2bb3a6113/)
+* [Qiita](https://qiita.com/takanyanta)
